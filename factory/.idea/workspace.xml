@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a7858b2d-9282-4a40-b5b4-778d8d8b1ee1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../home-factory/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-factory/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-factory/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-factory/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-factory/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-factory/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-factory/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-factory/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-factory/src/main/java/MainHeimController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-factory/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-factory/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-factory/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-factory/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-factory/test/main/TestHomebusFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-factory/test/main/TestProbusFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory-method/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory-method/.idea/factory-method.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory-method/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory-method/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory-method/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory-method/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/factory.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Fabriken/HeimautomationFabrik.java" beforeDir="false" afterPath="$PROJECT_DIR$/../home-factory/src/main/java/Fabriken/HeimautomationFabrik.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Fabriken/HomebusFabrik.java" beforeDir="false" afterPath="$PROJECT_DIR$/../home-factory/src/main/java/Fabriken/HomebusFabrik.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Fabriken/ProbusFabrik.java" beforeDir="false" afterPath="$PROJECT_DIR$/../home-factory/src/main/java/Fabriken/ProbusFabrik.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/HeimController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../home-factory/src/main/java/HeimController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/MainHeimController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Produkte/HomebusJalousieAktor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../home-factory/src/main/java/Produkte/HomebusJalousieAktor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Produkte/HomebusTemperaturSensor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../home-factory/src/main/java/Produkte/HomebusTemperaturSensor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Produkte/JalousieAktor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../home-factory/src/main/java/Produkte/JalousieAktor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Produkte/ProbusJalousieAktor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../home-factory/src/main/java/Produkte/ProbusJalousieAktor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Produkte/ProbusTemperaturSensor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../home-factory/src/main/java/Produkte/ProbusTemperaturSensor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Produkte/TemperaturSensor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../home-factory/src/main/java/Produkte/TemperaturSensor.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EOCBD3JUj9W8jBL3y41pbZO74u" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/cenglisch/Develop/designpatters-school/factory/src/main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="main" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="factory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7858b2d-9282-4a40-b5b4-778d8d8b1ee1" name="Changes" comment="" />
+      <created>1662457107893</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662457107893</updated>
+      <workItem from="1662457109218" duration="435000" />
+      <workItem from="1662457632911" duration="1598000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
