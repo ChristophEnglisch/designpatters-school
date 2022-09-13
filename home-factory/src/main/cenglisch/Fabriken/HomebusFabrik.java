@@ -2,7 +2,7 @@ package main.cenglisch.Fabriken;
 
 import main.cenglisch.Produkte.*;
 
-public class HomebusFabrik extends HeimautomationFabrik 
+public class HomebusFabrik extends HeimautomationFabrik
 {
 	@Override
 	public TemperaturSensor erzeugeTemperaturSensor() 

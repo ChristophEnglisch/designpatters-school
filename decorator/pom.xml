@@ -2,19 +2,26 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.example</groupId>
-  <artifactId>garden-factory</artifactId>
+  <artifactId>decorator</artifactId>
   <version>1.0-SNAPSHOT</version>
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>4.13.2</version>
+            <version>3.8.1</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>3.8.1</version>
+            <scope>compile</scope>
         </dependency>
     </dependencies>
     <properties>
         <maven.compiler.source>18</maven.compiler.source>
         <maven.compiler.target>18</maven.compiler.target>
     </properties>
-    <name>Archetype - garden-factory</name>
+    <name>Archetype - decorator</name>
   <url>http://maven.apache.org</url>
 </project>
